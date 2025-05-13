@@ -110,4 +110,5 @@ while running:
                          playerX_change=-5
                          if event.key==pygame.K_RIGHT:
                               player_change= 5
+                             if event.key == pygame.
                               
